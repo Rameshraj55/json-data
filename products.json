@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy M32",
+    "brand": "Samsung",
+    "price": 14999,
+    "category": "Mobiles",
+    "description": "6.4-inch Super AMOLED display, 64MP quad-camera setup, 6000mAh battery",
+    "stock": 100
+  },
+  {
+    "id": 2,
+    "name": "Mi 11X Pro",
+    "brand": "Xiaomi",
+    "price": 39999,
+    "category": "Mobiles",
+    "description": "6.67-inch AMOLED display, Snapdragon 888, 108MP triple-camera setup",
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "name": "HP Pavilion Gaming Laptop",
+    "brand": "HP",
+    "price": 67990,
+    "category": "Laptops",
+    "description": "Intel Core i5 10th Gen, NVIDIA GTX 1650Ti, 8GB RAM, 512GB SSD",
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "name": "Sony 55 Inch 4K Ultra HD Smart Android TV",
+    "brand": "Sony",
+    "price": 78999,
+    "category": "Televisions",
+    "description": "55-inch 4K HDR display, Dolby Vision, Acoustic Surface Audio technology",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "name": "Canon EOS 200D DSLR Camera",
+    "brand": "Canon",
+    "price": 42990,
+    "category": "Cameras",
+    "description": "24.1MP APS-C CMOS sensor, DIGIC 8 processor, 3-inch vari-angle touchscreen",
+    "stock": 15
+  }
+]
