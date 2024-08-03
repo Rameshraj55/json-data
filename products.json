@@ -43,5 +43,14 @@
     "category": "Cameras",
     "description": "24.1MP APS-C CMOS sensor, DIGIC 8 processor, 3-inch vari-angle touchscreen",
     "stock": 15
+  },
+{
+    "id": 6,
+    "name": "",
+    "brand": "",
+    "price": 0,
+    "category": "",
+    "description": "",
+    "stock": 0
   }
 ]
